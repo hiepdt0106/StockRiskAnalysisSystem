@@ -64,7 +64,18 @@ The project is implemented primarily using **PySpark** to demonstrate scalable d
 - Stocks are successfully clustered into multiple **risk groups** based on volatility
 - Risk clustering helps distinguish low-risk and high-risk stocks
 - The prediction model demonstrates reasonable performance on historical data
-
 > Due to the high volatility of financial markets and the influence of external factors (news, investor sentiment), prediction accuracy is inherently limited.
+
+## Future Improvements
+- Further optimize and extend the use of financial indicators such as RSI and MACD
+- Improve feature selection to better leverage technical indicators in prediction models
+- Apply advanced time-series models such as LSTM for improved forecasting
+- Deploy the system as a simple analytical dashboard
+
+
+## Notes This project is developed for **academic and learning purposes**, focusing on practical applications of data science and machine learning in financial analysis
+
+
+
 
 ---
